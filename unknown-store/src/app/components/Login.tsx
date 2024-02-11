@@ -2,6 +2,7 @@ import Link from "next/link";
 import React from "react";
 import { doLogin } from "../login/action";
 import ClientFlashComponent from "./ClientFlashComponent";
+import Image from "next/image";
 
 const Login = () => {
   return (
@@ -10,7 +11,7 @@ const Login = () => {
         <div className="px-6 py-4">
           <div className="flex justify-center mx-auto">
             <Link href={"/"}>
-              <img
+              <Image
                 className="w-auto h-7 sm:h-8"
                 src="/tempimg/asus-rog-1.svg"
                 alt="LOGO"
@@ -49,10 +50,10 @@ const Login = () => {
         </div>
         <div className="flex items-center justify-center py-4 text-center bg-gray-900 dark:bg-gray-700">
           <span className="text-sm text-gray-600 dark:text-gray-200">
-            Don't have an account?{" "}
+            Dont have an account?
           </span>
           <Link
-            href="/register"
+            href={"/register"}
             className="mx-2 text-sm font-bold text-blue-500 dark:text-blue-400 hover:underline"
           >
             Sign Up

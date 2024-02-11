@@ -1,6 +1,6 @@
 import { getProducts } from "@/app/db/models/product";
 
-export const GET = async ({ query }: { query?: string }) => {
+export const GET = async () => {
   const products = await getProducts();
 
   return Response.json(
