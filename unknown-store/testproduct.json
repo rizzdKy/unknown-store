@@ -1,0 +1,219 @@
+[
+    {
+      "name": "Persona 3 FES",
+      "slug": "P3FES-PS2",
+      "description": "Step back into the night.. Terrible creatures lurk in the dark, preying on those who stumble into the hidden hour that lies between one day and the next. As a member of a secret school club, you must wield your inner power -- Persona -- and protect humanity from impending doom. Will you live to see the saga's end -- and beyond?",
+      "excerpt": "Thorax saepe deficio adimpleo conitor.",
+      "price": 25,
+      "discountPrice": 15,
+      "tags": ["Role-Playing", "talio", "arceo"],
+      "thumbnail": "https://loremflickr.com/400/400/nightlife",
+      "images": [
+        "https://gamefaqs.gamespot.com/a/box/3/2/2/82322_front.jpg",
+        "https://gamefaqs.gamespot.com/a/box/3/3/1/82331_front.jpg",
+        "https://gamefaqs.gamespot.com/a/box/3/2/3/82323_front.jpg",
+        "https://gamefaqs.gamespot.com/a/box/3/2/4/82324_front.jpg"
+      ],
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z"
+    },
+    {
+      "name": "Final Fantasy X",
+      "slug": "FFX-PS2",
+      "description": "Enter a fantasy world where humans are on the brink of extinction. In this all-new Final Fantasy RPG, you must stop a powerful force called Sin that destroys cities and lives.",
+      "excerpt": "Thorax saepe deficio adimpleo conitor.",
+      "price": 20,
+      "discountPrice": 10,
+      "tags": ["Role-Playing", "talio", "arceo"],
+      "thumbnail": "https://loremflickr.com/400/400/nightlife",
+      "images": [
+        "https://gamefaqs.gamespot.com/a/box/6/6/7/3667_front.jpg",
+        "https://gamefaqs.gamespot.com/a/box/6/6/9/3669_front.jpg",
+        "https://gamefaqs.gamespot.com/a/box/6/6/8/3668_front.jpg",
+        "https://gamefaqs.gamespot.com/a/box/6/6/5/3665_front.jpg"
+      ],
+      "createdAt": "2024-01-22T13:15:24.887Z",
+      "updatedAt": "2024-01-25T18:19:54.047Z"
+    },
+    {
+      "name": "Kingdom Hearts",
+      "slug": "KH-PS2",
+      "description": "For the first time ever, Disney films come together in one game, but it's up to you make it their world the happiest place on Earth. Kingdom Hearts follows Sora in his quest to find his friends and Court Wizard Donald and Captain Goofy as they set out to find the missing King Mickey",
+      "excerpt": "Thorax saepe deficio adimpleo conitor.",
+      "price": 30,
+      "discountPrice": 17,
+      "tags": ["Role-Playing", "talio", "arceo"],
+      "thumbnail": "https://loremflickr.com/400/400/nightlife",
+      "images": [
+        "https://gamefaqs.gamespot.com/a/box/1/3/8/14138_front.jpg",
+        "https://gamefaqs.gamespot.com/a/box/1/3/9/14139_front.jpg",
+        "https://gamefaqs.gamespot.com/a/box/1/3/6/14136_front.jpg",
+        "https://gamefaqs.gamespot.com/a/box/1/3/7/14137_back.jpg"
+      ],
+      "createdAt": "2024-08-09T03:01:50.432Z",
+      "updatedAt": "2023-05-17T16:42:21.208Z"
+    },
+    {
+      "name": "Final Fantasy XII",
+      "slug": "FFXII-PS2",
+      "description": "The story of FINAL FANTASY XII takes place in a world called Ivalice, in an age when magic was commonplace and airships plied the skies, crowding out the heavens. War was on the horizon. Seeking to strengthen its base of power, the great Archadian Empire had been invading and subjugating its neighboring kingdoms one by one",
+      "excerpt": "Thorax saepe deficio adimpleo conitor.",
+      "price": 30,
+      "discountPrice": 20,
+      "tags": ["Role-Playing", "talio", "arceo"],
+      "thumbnail": "https://loremflickr.com/400/400/nightlife",
+      "images": [
+        "https://gamefaqs.gamespot.com/a/box/5/9/0/12590_front.jpg",
+        "https://gamefaqs.gamespot.com/a/box/5/9/1/12591_front.jpg",
+        "https://gamefaqs.gamespot.com/a/box/5/9/3/12593_front.jpg",
+        "https://gamefaqs.gamespot.com/a/box/8/7/0/85870_front.jpg"
+      ],
+      "createdAt": "2024-03-06T12:32:37.477Z",
+      "updatedAt": "2024-06-10T19:39:46.154Z"
+    },
+    {
+      "name": "Grand Theft Auto: San Andreas",
+      "slug": "GTASA-PS2",
+      "description": "Five years ago Carl Johnson escaped from the pressures of life in Los Santos, San Andreas... a city tearing itself apart with gang trouble, drugs and corruption. Where filmstars and millionaires do their best to avoid the dealers and gangbangers.",
+      "excerpt": "Thorax saepe deficio adimpleo conitor.",
+      "price": 15,
+      "discountPrice": 10,
+      "tags": ["Action Adventure", "talio", "arceo"],
+      "thumbnail": "https://loremflickr.com/400/400/nightlife",
+      "images": [
+        "https://gamefaqs.gamespot.com/a/box/8/5/6/53856_front.jpg",
+        "https://gamefaqs.gamespot.com/a/box/8/5/6/53856_back.jpg",
+        "https://gamefaqs.gamespot.com/a/box/8/5/7/53857_front.jpg",
+        "https://gamefaqs.gamespot.com/a/box/8/5/7/53857_back.jpg"
+      ],
+      "createdAt": "2024-11-15T09:54:08.287Z",
+      "updatedAt": "2024-02-10T18:53:21.288Z"
+    },
+    {
+      "name": "Grand Theft Auto: Vice City",
+      "slug": "GTAVC-PS2",
+      "description": "From the decade of big hair, excess, and pastel suits comes a story of one man's rise to the top of the criminal pile. Vice City is a huge urban sprawl ranging from the beach to the swamps and the glitz to the ghetto, and is the most varied and complete digital city ever created",
+      "excerpt": "Thorax saepe deficio adimpleo conitor.",
+      "price": 15,
+      "discountPrice": 10,
+      "tags": ["Action Adventure", "talio", "arceo"],
+      "thumbnail": "https://loremflickr.com/400/400/nightlife",
+      "images": [
+        "https://gamefaqs.gamespot.com/a/box/2/9/0/18290_front.jpg",
+        "https://gamefaqs.gamespot.com/a/box/2/9/0/18290_back.jpg",
+        "https://gamefaqs.gamespot.com/a/box/2/9/0/18290_front.jpg",
+        "https://gamefaqs.gamespot.com/a/box/2/9/0/18290_back.jpg"
+      ],
+      "createdAt": "2023-01-27T18:25:27.802Z",
+      "updatedAt": "2022-12-27T20:46:38.431Z"
+    },
+    {
+      "name": "Metal Gear Solid 3",
+      "slug": "MGS3-PS2",
+      "description": "October 16, 1962. The President of the United States received word that the Soviet Union had deployed nuclear missiles in Cuba. The world trembled in fear as the prospect of nuclear war loomed ever closer. After days of tense negotiations, the Soviets finally agreed on the 28th to withdraw their missiles from Cuban soil",
+      "excerpt": "Thorax saepe deficio adimpleo conitor.",
+      "price": 20,
+      "discountPrice": 13,
+      "tags": ["Action Adventure", "talio", "arceo"],
+      "thumbnail": "https://loremflickr.com/400/400/nightlife",
+      "images": [
+        "https://gamefaqs.gamespot.com/a/box/4/4/1/53441_front.jpg",
+        "https://gamefaqs.gamespot.com/a/box/4/4/1/53441_back.jpg",
+        "https://gamefaqs.gamespot.com/a/box/4/3/7/53437_front.jpg",
+        "https://gamefaqs.gamespot.com/a/box/4/3/8/53438_front.jpg"
+      ],
+      "createdAt": "2023-01-27T13:37:17.354Z",
+      "updatedAt": "2023-09-09T13:43:34.455Z"
+    },
+    {
+      "name": "Bully",
+      "slug": "Bully-PS2",
+      "description": "Rockstar Games brings their unique storytelling to the perils of the schoolyard in Bully. As a troubled schoolchild at Bullworth Academy, you can to stand up to bullies, deal with malicious teachers, play pranks on other schoolchildren, and try to get the girl in this story-driven action game",
+      "excerpt": "Thorax saepe deficio adimpleo conitor.",
+      "price": 15,
+      "discountPrice": 10,
+      "tags": ["Action Adventure", "talio", "arceo"],
+      "thumbnail": "https://loremflickr.com/400/400/nightlife",
+      "images": [
+        "https://gamefaqs.gamespot.com/a/box/1/6/2/68162_front.jpg",
+        "https://gamefaqs.gamespot.com/a/box/1/6/2/68162_back.jpg",
+        "https://gamefaqs.gamespot.com/a/box/1/6/7/68167_front.jpg",
+        "https://gamefaqs.gamespot.com/a/box/1/6/3/68163_front.jpg"
+      ],
+      "createdAt": "2023-12-06T07:47:47.833Z",
+      "updatedAt": "2023-03-19T16:53:03.404Z"
+    },
+    {
+      "name": "Persona 4",
+      "slug": "P4-PS2",
+      "description": "",
+      "excerpt": "Thorax saepe deficio adimpleo conitor.",
+      "price": 30,
+      "discountPrice": 19,
+      "tags": ["Role-Playing", "talio", "arceo"],
+      "thumbnail": "https://loremflickr.com/400/400/nightlife",
+      "images": [
+        "https://gamefaqs.gamespot.com/a/box/5/2/2/95522_front.jpg",
+        "https://gamefaqs.gamespot.com/a/box/5/2/2/95522_back.jpg",
+        "https://gamefaqs.gamespot.com/a/box/5/2/3/95523_front.jpg",
+        "https://gamefaqs.gamespot.com/a/box/5/2/3/95523_back.jpg"
+      ],
+      "createdAt": "2023-06-04T03:57:07.764Z",
+      "updatedAt": "2022-12-19T19:32:58.233Z"
+    },
+    {
+      "name": "Monster Hunter",
+      "slug": "MH-PS2",
+      "description": "Monster Hunter challenges you to complete different quests while confronting a variety of creatures. As monster hunters, you'll battle against powerful beasts either alone or with the aid of others. The game's objectives vary from defeating beasts and protecting a town to collecting items",
+      "excerpt": "Thorax saepe deficio adimpleo conitor.",
+      "price": 30,
+      "discountPrice": 25,
+      "tags": ["Role-Playing", "talio", "arceo"],
+      "thumbnail": "https://loremflickr.com/400/400/nightlife",
+      "images": [
+        "https://gamefaqs.gamespot.com/a/box/6/4/5/53645_front.jpg",
+        "https://gamefaqs.gamespot.com/a/box/6/4/5/53645_back.jpg",
+        "https://gamefaqs.gamespot.com/a/box/6/4/6/53646_front.jpg",
+        "https://gamefaqs.gamespot.com/a/box/6/4/6/53646_back.jpg"
+      ],
+      "createdAt": "2023-12-10T04:40:42.778Z",
+      "updatedAt": "2023-02-25T03:33:31.866Z"
+    },
+    {
+      "name": "Tales of the Abyss",
+      "slug": "TalesAbyss-PS2",
+      "description": "Tales of the Abyss tells the story of Luke fon Fabre, sole heir to a family of aristocrats, as he is suddenly thrust into the outside world on an epic adventure. Naïve and spoiled by years of isolation, Luke struggles to learn of friendship, sacrifice, duty and of choice",
+      "excerpt": "Thorax saepe deficio adimpleo conitor.",
+      "price": 20,
+      "discountPrice": 15,
+      "tags": ["Role-Playing", "talio", "arceo"],
+      "thumbnail": "https://loremflickr.com/400/400/nightlife",
+      "images": [
+        "https://loremflickr.com/400/400/abstract",
+        "https://loremflickr.com/400/400/nightlife",
+        "https://loremflickr.com/400/400/food",
+        "https://loremflickr.com/400/400/transport"
+      ],
+      "createdAt": "2024-09-17T22:16:36.054Z",
+      "updatedAt": "2024-04-26T16:40:49.008Z"
+    },
+    {
+      "name": "Disgaea 2",
+      "slug": "Disgaea2-PS2",
+      "description": "In the peaceful world of Veldime, humans rarely encountered monsters. That was until Overlord Zenon cursed the land and all who reside within. With the curse in place, the humans became monsters and ravaged the world",
+      "excerpt": "Thorax saepe deficio adimpleo conitor.",
+      "price": 15,
+      "discountPrice": 10,
+      "tags": ["Strategy", "talio", "arceo"],
+      "thumbnail": "https://loremflickr.com/400/400/nightlife",
+      "images": [
+        "https://gamefaqs.gamespot.com/a/box/7/2/6/71726_front.jpg",
+        "https://gamefaqs.gamespot.com/a/box/7/2/6/71726_back.jpg",
+        "https://gamefaqs.gamespot.com/a/box/7/2/8/71728_front.jpg",
+        "https://gamefaqs.gamespot.com/a/box/7/2/9/71729_front.jpg"
+      ],
+      "createdAt": "2024-08-12T19:06:51.002Z",
+      "updatedAt": "2023-05-03T06:27:32.935Z"
+    }
+    
+]
