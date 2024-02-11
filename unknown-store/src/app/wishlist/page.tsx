@@ -1,9 +1,11 @@
 import React from "react";
 import ServerProtectedComponents from "../components/ServerProtectedComponent";
+import NavBar from "../components/NavBar";
 
 const whislist = () => {
   return (
     <ServerProtectedComponents>
+      <NavBar />
       <div className="bg-gray-900 py-6 sm:py-8 lg:py-12">
         <div className="mx-auto max-w-screen-lg px-4 md:px-8">
           <div className="mb-6 sm:mb-10 lg:mb-16">

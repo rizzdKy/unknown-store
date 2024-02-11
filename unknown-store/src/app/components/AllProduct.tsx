@@ -60,7 +60,7 @@ const AllProduct = () => {
   };
 
   return (
-    <div className="min-h-screen min-w-screen h-[50] md:h-[100vh] bg-gray-900">
+    <div className="min-h-screen min-w-screen h-[50] bg-gray-900">
       <div className="bg-gray-900 mx-auto max-w-screen-lg px-4 md:px-8">
         <div className="mb-6 flex items-end justify-between gap-4 py-8">
           <h2 className="text-2xl font-bold text-gray-200 lg:text-3xl">

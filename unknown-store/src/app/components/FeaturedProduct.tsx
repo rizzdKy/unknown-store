@@ -3,7 +3,7 @@ import TopProduct from "./TopProduct";
 
 const FeaturedProduct = () => {
   return (
-    <div className="min-h-screen min-w-screen h-[50] md:h-[100vh] bg-gray-900">
+    <div className="min-h-screen min-w-screen h-[50] bg-gray-900">
       <div className="pt-10 w-[80%] mx-auto flex items-center justify-between">
         <h1 className="md:text-[28px] text-[22px] lg:text-[34px] text-white ">
           Top Product
